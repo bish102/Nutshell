@@ -1,2 +1,2 @@
 # Nutshell
-Coming soon... mind blowing code
+Hello human, let's develop a cool feature!
